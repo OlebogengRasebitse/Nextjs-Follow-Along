@@ -1,0 +1,1 @@
+{"c":["pages/events/[eventId]","webpack"],"r":["pages/events/[...slug]"],"m":["./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=C%3A%5CUsers%5CSoftwareDeveloper38%5CDocuments%5CNextjs-Follow-Along%5Cnextjsproject%5Cpages%5Cevents%5C%5B...slug%5D.js&page=%2Fevents%2F%5B...slug%5D!","./pages/events/[...slug].js"]}
